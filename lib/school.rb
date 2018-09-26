@@ -22,4 +22,5 @@ class School
     student_name.each do |students|
       students.sort
     end
+  end
 end
