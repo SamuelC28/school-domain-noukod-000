@@ -16,11 +16,7 @@ class School
   end
 
   def grade(student_name)
-  #   grade.each do |student, grd|
-  #     puts student
-  #   end
-  # end
-  @roster[student_name]
-end
+    @roster[student_name]
+  end
 
 end
